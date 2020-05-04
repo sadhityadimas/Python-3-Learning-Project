@@ -1,2 +1,2 @@
-# Python-3-Learning-Project
-This repository contains python 3 learning projects. 
+# Python-3--Projects
+This repository contains python 3 projects. 
